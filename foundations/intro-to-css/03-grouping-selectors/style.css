@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+/* Group Selector Styling */
+.button-one, .button-two{
+    font-family: Helvetica "Times New Roman" sans-serif;
+    font-size:1.75rem;
+}
+
+
+
+/* Button One Styling */
+.button-one{
+    color:hsl(0,100%,100%);
+    background-color:hsl(353,100%,90%);
+
+}
+
+/* Button Two Styling */
+.button-two{
+    background-color:hsl(348,99%,54%)
+}
+
