@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+/* STYLING FOR ODD NUMBERS */
+p {
+
+    font-family:Verdana, 'DejaVu Sans', sans-serif;
+    background-color: hsl(0, 100%, 83%);
+
+}
+
+/* STYLING FOR THE SECOND NUMBER */
+#second-element{
+    color:hsl(240,100%,52%);
+    font-size:2.25rem;
+}
+
+#third-element{
+    font-size:1.5rem;
+}
+
+#fourth-element{
+    font-size:1.5rem;
+    font-weight: bold;
+    background-color:hsl(120,100%,75%)
+}
