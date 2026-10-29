@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd{
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second-element{
+    font-size: 2.25rem;
+    color:blue;
+}
+
+.adjust-font-size{
+    font-size: 1.5rem;
+}
+
+#fourth-element{
+    background-color: lightgreen;
+    font-weight: bold;
+    
+}
